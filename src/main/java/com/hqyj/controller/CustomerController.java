@@ -16,9 +16,4 @@ public class CustomerController {
         return "index";
     }
 
-
-    @RequestMapping("index1.do")
-    public String index1(){
-        return "index";
-    }
 }
